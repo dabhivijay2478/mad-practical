@@ -1,32 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95fea121-31c7-402d-9c33-440dcedd05f7" name="Changes" comment="" />
+    <list default="true" id="95fea121-31c7-402d-9c33-440dcedd05f7" name="Changes" comment="pr1">
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p1.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2DibB6kOXHJ1FIDNAKLvuxxH2F2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Kotlin.P10Kt">
+    <configuration name="P10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P10Kt" />
+      <module name="practical-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P6Kt" />
+      <module name="practical-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P7Kt" />
+      <module name="practical-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P8Kt" />
+      <module name="practical-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P9Kt" />
+      <module name="practical-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.P10Kt" />
+        <item itemvalue="Kotlin.P9Kt" />
+        <item itemvalue="Kotlin.P8Kt" />
+        <item itemvalue="Kotlin.P7Kt" />
+        <item itemvalue="Kotlin.P6Kt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="95fea121-31c7-402d-9c33-440dcedd05f7" name="Changes" comment="" />
       <created>1661184733872</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661184733872</updated>
     </task>
+    <task id="LOCAL-00001" summary="pr1">
+      <created>1661184871762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661184871762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pr1" />
+    <option name="LAST_COMMIT_MESSAGE" value="pr1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/practical_1$P1Kt.ic" NAME="P1Kt Coverage Results" MODIFIED="1661186609793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
